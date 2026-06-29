@@ -21,6 +21,8 @@
 - 🔍 Currently open to **Data Scientist, ML Engineer, and Data Analyst** roles
 - 💻 I enjoy building end-to-end ML pipelines and GenAI applications that solve real problems
 - 📊 Interests: Machine Learning, Time Series Forecasting, NLP, Computer Vision, Generative AI
+- 🌱 Continuously learning and building real-world projects to strengthen practical AI and analytics skills
+- 💡 Passionate about solving business problems through data-driven approaches
 
 ---
 
