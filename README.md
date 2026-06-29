@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lekshmi Priya V 👋</h1>
 
 <p align="center">
-  Data Scientist · Machine Learning · Generative AI · Time Series Forecasting
+  Data Science Masters Graduate · Aspiring Data Scientist · Machine Learning · Data Analytics · Generative AI · Time Series Forecasting
 </p>
 
 <p align="center">
